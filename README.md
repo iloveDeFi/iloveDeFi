@@ -1,9 +1,7 @@
-Nice to meet you! 👋
+Pleased to meet you! 👋
 
-Originally, I started as a solo entrepreneur in e-commerce. Then I tried web design in a web agency. Through these small steps, I discovered my hidden gem: software development. At the end of 2021, I decided to get into this field by taking a crash course in JS and introductory computer science at Harvard. It was tough for a complete beginner, but I was fascinated.
+I originally started out as a solo entrepreneur in e-commerce. Then I tried my hand at web design in a web agency. Thanks to these small steps, I discovered software development. At the end of 2021, I decided to go into this field by taking a crash course in JS and introduction to computer science at Harvard. It was difficult for a complete beginner, but I was fascinated.
 
-I taught myself the basics of HTML, CSS, JS, React/React Native on the frontend and NodeJS, MongoDB and Express on the backend. I joined the 42 School to develop my coding skills in C language. Currently a student and recently launched my web agency Gotek Sarl in Lausanne, Switzerland.
+I taught myself the basics of HTML, CSS, JS, React/React Native on the frontend and NodeJS, MongoDB and Express on the backend. I joined the Ecole 42 to develop my coding skills in C/C++. Currently a student, I recently launched my web agency Gotek Sarl in Lausanne, Switzerland.
 
-I am also passionate about blockchain technology and the issues that come with it. I have started learning Solidity. This is my long term goal 😇
-
-I admire the level of other developers, I realize how little I know but I am really excited to improve my web dev skills to join a tech company.
+My long-term goal is to have the skills to solve difficult problems for businesses. I admire the level of other developers, I realise how little I know but I'm really enthusiastic about improving my web development skills so that I can soon join a technology company.
