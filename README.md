@@ -1,5 +1,5 @@
-class Baptiste:
-
+    class Baptiste :
+    
     location   = "Switzerland 🇨🇭"
     stack      = ["python", "fastapi", "postgres", "docker", "k8s"]
     likes      = ["boring infra that just works", "CLIs", "good error messages"]
